@@ -1,4 +1,3 @@
-cat > README.md <<'EOF'
 # Robotics Simulation Demos
 
 Small Python robotics and automation simulation demos exploring robot motion, singularities, workpiece positioning, and welding-style automation concepts.
@@ -8,6 +7,20 @@ These demos were built as experimental engineering visualizations to understand 
 ## Demos
 
 ### 1. Robot Singularity Demo
+
+
+https://github.com/user-attachments/assets/e444b5a6-7d9d-4653-9e75-4b9e938710d5
+
+
+
+https://github.com/user-attachments/assets/1c89df8a-6986-4d93-95bd-119f41210e6f
+
+
+
+
+
+
+
 
 **File:** `singularity_demo2.py`
 
